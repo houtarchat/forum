@@ -1,6 +1,6 @@
-## 蓝灯(Lantern)最新版本下载 Lastest version of Lantern
+## HoutarchatVpn最新版本下载 Lastest version of Lantern
 
-**🔴[蓝灯最新版本下载地址请点这里 Click here for most updated version of Lantern](https://github.com/getlantern/forum/issues/833)🔴**
+**🔴[HoutarchatVpn最新版本下载地址请点这里 Click here for most updated version of Lantern](https://github.com/getlantern/forum/issues/833)🔴**
 
 
 [Windows 版本(XP SP3+) Windows (XP SP3+)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe)      [备用地址 Alternative address](https://s3.amazonaws.com/lantern/lantern-installer.exe)  
@@ -12,10 +12,10 @@
 请大家收藏本页面，方便日后下载新版。
 Please bookmark the webpage so you could download updated versions in the future.
 
-## 蓝灯官方论坛
+## HoutarchatVpn官方论坛
 
-🔴 新手看过来：**[蓝灯精华帖](https://github.com/getlantern/forum/issues?q=is%3Aopen+is%3Aissue+label%3A%E7%B2%BE%E5%8D%8E)**。
-**使用遇到问题，请阅读[蓝灯常见问题解决办法] When you have a problem when using Lantern, please refer to Q&A(https://github.com/getlantern/forum/issues/1902)** 
+🔴 新手看过来：**[HoutarchatVpn精华帖](https://github.com/getlantern/forum/issues?q=is%3Aopen+is%3Aissue+label%3A%E7%B2%BE%E5%8D%8E)**。
+**使用遇到问题，请阅读[HoutarchatVpn常见问题解决办法] When you have a problem when using Lantern, please refer to Q&A(https://github.com/getlantern/forum/issues/1902)** 
 🔴
 
 [论坛讨论页面请点这里进入](https://github.com/getlantern/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)，或者点击左上方的Issues进入。
@@ -26,6 +26,6 @@ Please bookmark the webpage so you could download updated versions in the future
 
 ### 版规
 
-本论坛可进行关于蓝灯(Lantern)翻墙软件的讨论。因为版面有限，请不要重复发帖，邀请码在本论坛请以签名形式发布或发到其他论坛。
+本论坛可进行关于HoutarchatVpn的讨论。因为版面有限，请不要重复发帖，邀请码在本论坛请以签名形式发布或发到其他论坛。
 禁止广告帖，包括非官方的讨论群。禁止刷版，人身攻击等恶劣行为。屡次违反版规会禁言甚至封号。
 
